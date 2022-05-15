@@ -1,0 +1,14 @@
+.links{
+    color:#007195;
+    margin-right: 20px;
+    font-size: 14px;
+}
+.linksClicked{
+    color:black;
+    margin-right: 20px;
+    font-size: 14px;
+}
+.links:hover{
+    text-decoration: underline;
+    color:red
+}

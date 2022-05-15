@@ -1,0 +1,22 @@
+.header_two{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height:6%;
+    background-color: #232F3F;
+    color:white;
+}
+.header_twoLeft{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 75%;    
+    padding-left: 10px;
+
+}
+.header_twoRight{
+    width: 25%;
+    padding-right: 10px;
+}
